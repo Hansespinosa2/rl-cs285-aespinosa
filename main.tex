@@ -1,0 +1,26 @@
+\RequirePackage[orthodox]{nag}
+\documentclass[11pt]{article}
+
+%% Define the include path
+\makeatletter
+\providecommand*{\input@path}{}
+\g@addto@macro\input@path{{include/}{../include/}}
+\makeatother
+
+\usepackage{include/akazachk}
+
+\title{Reinforcement Learning CS285 Notes and Homeworks}
+\author{Andres Espinosa}
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\include{notes/lecture1}
+\include{notes/lecture2}
+
+
+
+
+\end{document}
