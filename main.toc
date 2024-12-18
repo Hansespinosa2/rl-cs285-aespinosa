@@ -5,3 +5,12 @@
 \contentsline {subsubsection}{\numberline {2.1.2}Imitation Learning}{3}{subsubsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.2}Part 2}{3}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Why does behavioral cloning fail?}{3}{subsubsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.3}Part 3}{4}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Data Collection and Augmentation}{4}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Model failure types}{4}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Model Methods for Improving Failure}{5}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Part 4}{5}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Multi-task learning}{5}{subsubsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.5}Part 5}{5}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Data Collection Strategy}{5}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Cost functions and reward functions}{6}{subsubsection.2.5.2}%

@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber main"] 1734415726.89605 "main.bcf" "main.bbl" "main" 1734454965.28304 0
-  "main.bcf" 1734454965.18683 107260 3b26a2c888cdc76f44e14bdadf0d01c0 "pdflatex"
+["biber main"] 1734415726.89605 "main.bcf" "main.bbl" "main" 1734550186.86518 0
+  "main.bcf" 1734550186.77179 107260 3b26a2c888cdc76f44e14bdadf0d01c0 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1734454964.06679 "/Users/andresespinosa/Documents/GitHub/rl-cs285-aespinosa/main.tex" "main.pdf" "main" 1734454965.28322 0
+["pdflatex"] 1734550185.69282 "/Users/andresespinosa/Documents/GitHub/rl-cs285-aespinosa/main.tex" "main.pdf" "main" 1734550186.86538 0
   "/Users/andresespinosa/Documents/GitHub/rl-cs285-aespinosa/main.tex" 1734415857.21815 429 eaa3fb4460fa6fcde7c01fb4eaa69d91 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -291,18 +291,19 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1733206783.25017 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1733206711 8221430 bfc2a4731fc99463adcc1c6db0a97095 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "images/lecture2_gaussian_mixture.png" 1734543982.35036 38777 2dcb425f874d5866971c2b5d38d2a400 ""
   "images/lecture2_grapical_depiction.png" 1734452090.42516 132334 d047564565493bc88fc22d33f617bfcf ""
   "include/akazachk.sty" 1734415631.27251 19452 3aa7263e155354132100919494cb3812 ""
-  "main.aux" 1734454965.18404 399 de2f449a6245beff6ac7c53e91645309 "pdflatex"
+  "main.aux" 1734550186.76905 399 03ac92225b549f8c949d0d86e537dbb7 "pdflatex"
   "main.bbl" 1734415740.04555 0 d41d8cd98f00b204e9800998ecf8427e "biber main"
-  "main.out" 1734454965.18508 939 cdd50ca60be7fec7564a2c59be3163b3 "pdflatex"
-  "main.run.xml" 1734454965.18727 2258 a91c127ad539d8c56e10e28939cf8079 "pdflatex"
+  "main.out" 1734550186.7701 2486 6b38ccab54e0b670f831cd35e5f1e5ea "pdflatex"
+  "main.run.xml" 1734550186.77225 2258 a91c127ad539d8c56e10e28939cf8079 "pdflatex"
   "main.tex" 1734415857.21815 429 eaa3fb4460fa6fcde7c01fb4eaa69d91 ""
-  "main.toc" 1734454965.18731 573 aa35a9d14ae3485a9956b7acf3057734 "pdflatex"
-  "notes/lecture1.aux" 1734454965.10619 4694 2280a94fe1440b57e1904a01cbb112ab "pdflatex"
+  "main.toc" 1734550186.7723 1409 38b4ef156f81caeb3af439252922f560 "pdflatex"
+  "notes/lecture1.aux" 1734550186.66893 4694 2280a94fe1440b57e1904a01cbb112ab "pdflatex"
   "notes/lecture1.tex" 1734415834.40472 55 6e8166b34ec39232f5aeaedcecd5338b ""
-  "notes/lecture2.aux" 1734454965.18335 5825 f777cff45192867ccc487bb82840d055 "pdflatex"
-  "notes/lecture2.tex" 1734454963.84653 4304 6be9c21d23280b29a9ad06903ad0f073 ""
+  "notes/lecture2.aux" 1734550186.76853 7438 6780f11927682b4da683e67d5b9fcaa9 "pdflatex"
+  "notes/lecture2.tex" 1734550185.47703 7957 01ba8c92c56cb2a825277c68dd2cfef3 ""
   (generated)
   "main.aux"
   "main.bcf"
